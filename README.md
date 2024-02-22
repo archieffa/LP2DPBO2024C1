@@ -8,13 +8,13 @@ Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melak
 Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java,
 Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance
 pada kelas - kelas tersebut:
-● Product: idProduct, name, brand, price
-● Clothing: size, material, gender
-● Shirt: color, sleeve_type
+- Product: idProduct, name, brand, price
+- Clothing: size, material, gender
+- Shirt: color, sleeve_type
 
 ## DESAIN KELAS (DIAGRAM)
 
-![clothingBrand](https://github.com/archieffa/LP2DPBO2024C1/assets/121290445/3467e52e-3822-4526-aec2-312b949b3b05)
+![clothingBrand](https://github.com/archieffa/LP2DPBO2024C1/assets/121290445/bafa1d06-62e4-48f8-b437-7081a37a07f3)
 
 ## DESAIN KODE PROGRAM
 
