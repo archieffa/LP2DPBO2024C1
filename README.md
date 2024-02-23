@@ -48,7 +48,7 @@ Ketiga kelas diatas memiliki setter dan getter untuk setiap atributnya, sehingga
 
 # ALUR PROGRAM
 
-Semua program mempunyai alur yang sama, kecuali program PHP yang inputan datanya berupa hardcode dan memiliki satu atribut tambahan yaitu atribut untuk path foto. Alur programnya adalah sebagai berikut:
+Semua program mempunyai alur yang sama, kecuali program PHP yang inputan datanya berupa hardcode. Alur programnya adalah sebagai berikut:
 
 - User mulai menjalankan program
 - User diberikan opsi untuk memilih fitur:
